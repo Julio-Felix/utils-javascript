@@ -1,0 +1,22 @@
+{
+  "name": "js-utils",
+  "version": "0.0.1",
+  "description": "Utilitarios de Codigo Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julio-Felix/utils-javascript.git"
+  },
+  "keywords": [
+    "Utils-js"
+  ],
+  "author": "Julio-Felix",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julio-Felix/utils-javascript/issues"
+  },
+  "homepage": "https://github.com/Julio-Felix/utils-javascript#readme"
+}
